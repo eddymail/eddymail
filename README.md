@@ -19,7 +19,7 @@ I'm Edouard, living in Saint Aubin de Medoc, near Bordeaux !
 
 Currently you will find the projects that I realized during my training at OpenClassrooms
 
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edouard-loussouarn-8a8213205/)
 
 #### Langage / IDE
 
