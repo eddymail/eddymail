@@ -1,4 +1,4 @@
-### Hi there 👋
+### Nice to meet you!👋
 
 <!--
 **eddymail/eddymail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Edouard, living in Saint Aubin de Medoc, near Bordeaux ! 
+
+Currently you will find the projects that I realized during my training at OpenClassrooms
+
+[![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/edouard-loussouarn-8a8213205/)
+
+#### Langages / IDE
+
