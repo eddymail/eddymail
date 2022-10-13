@@ -19,7 +19,9 @@ I'm Edouard, living in Saint Aubin de Medoc, near Bordeaux !
 
 Currently you will find the projects that I realized during my training at OpenClassrooms
 
-[![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/edouard-loussouarn-8a8213205/)
+![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-#### Langages / IDE
+#### Langage / IDE
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 
