@@ -1,25 +1,19 @@
-### Nice to meet you!👋
+### Welcome to my github page
 
-<!--
-**eddymail/eddymail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: My first name is Edouard, and I am 41 years old and I have been developing since the end of 2019. I discovered the world of code by creating an online store on Shopify when I wanted to modify one of their free templates. I fell on lines of code and I wanted to be one of those who can read them.
 
-Here are some ideas to get you started:
+:trophy: After having followed several courses on OpenClassrooms, I chose to join the android application developer diploma course. I graduated in November 2021. Currently you will find the principal projects that I realized during my training at OpenClassrooms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm Edouard, living in Saint Aubin de Medoc, near Bordeaux ! 
-
-Currently you will find the projects that I realized during my training at OpenClassrooms
+:loudspeaker: Graduate android application developer specialized in java, I am actively looking for a work-study contract (in an apprenticeship or professionalization contract) in Bordeaux and its surroundings to continue my skills development and become an Application Designer Developer (Bac +4).
+The rhythm of the alternation is 3 weeks in companies and 1 week in training for a period of 17 months. The courses are given by Simplon.co at the digital city of Bègles from November 21, 2022 to May 25, 2024. The work-study contract begins on January 2, 2023.
+Rigorous, autonomous and eager to progress, don’t hesitate to contact me if my profile interests you.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edouard-loussouarn-8a8213205/)
+
+:open_file_folder: Some notable projects
+
+- https://github.com/eddymail/P7_Go4Lunch (If you are looking for where to eat with your workmates during the lunch break)
+- https://github.com/eddymail/P9_RealEstateManager (If you are a real estate agent and want to list all the properties for sale on your phone or tablet)
 
 #### Langage / IDE
 
