@@ -1,6 +1,6 @@
 ### Welcome to my github page
 
-:computer: My first name is Edouard, and I am 41 years old and I have been developing since the end of 2019. I discovered the world of code by creating an online store on Shopify when I wanted to modify one of their free templates. I fell on lines of code and I wanted to be one of those who can read them.
+:computer: My name is Edouard, I am 41 years old and I have been developing since the end of 2019. I discovered the world of code by creating an online store on Shopify when I wanted to modify one of their free templates. I fell on lines of code and I wanted to be one of those who can read them.
 
 :trophy: After having followed several courses on OpenClassrooms, I chose to join the android application developer diploma course. I graduated in January 2022. Currently you will find the principal projects that I realized during my training at OpenClassrooms.
 
